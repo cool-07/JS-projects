@@ -1,3 +1,4 @@
+// Digital clock
 const clock=document.getElementById('clock')
 //let date=new Date();
 setInterval(function() {
